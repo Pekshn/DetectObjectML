@@ -1,9 +1,8 @@
 # DetectObjectML
-Detecting objects with Vision and CoreML
 
 Machine Learning iOS app that detects objects on images.
 
-- ML Objects Detection example app
+- ML Objects Detection with Vision and CoreML
 
 📌 Notes:
 
