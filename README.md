@@ -3,7 +3,7 @@ Detecting objects with Vision and CoreML
 
 An iOS ML application that detects objects based on the YOLOv3Tiny MLModel.
 
-- ML Object Detection example app
+- ML Objects Detection example app
 
 Note:
 
