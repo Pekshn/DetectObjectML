@@ -1,14 +1,22 @@
 # DetectObjectML
 Detecting objects with Vision and CoreML
 
-An iOS ML application that detects objects based on the YOLOv3Tiny MLModel.
+An iOS ML application that detects objects on images.
 
 - ML Objects Detection example app
 
-Note:
+📌 Notes:
+
+This app contains good solution for implementing camera picker in SwiftUI.
 
 YOLOv3Tiny.mlmodel has been added from Apple developer platform.
 
 Download link: https://developer.apple.com/machine-learning/models
 
-This app contains good solution for implementing camera picker in SwiftUI.
+📸 Screenshots
+
+<table>
+  <tr>
+    <td><img src="Screenshots/SS.png" width="300"></td>
+  </tr>
+</table>
